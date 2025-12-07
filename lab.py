@@ -1,1 +1,2 @@
-ptint(helloworld)
+print(helloworld)
+say hello
